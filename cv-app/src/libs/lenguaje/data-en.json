@@ -1,0 +1,94 @@
+{
+  "titles": {
+    "cv": "Curriculum Vitae",
+    "experience": "Work Experience",
+    "studies": "Education",
+    "contact": "Contact Me"
+  },
+  "personal_info": {
+    "full_name": "Pablo Facundo Diaz",
+    "email": "📨 pablo.diaz1795@gmail.com",
+    "phone": "📱 +54 3813-698820",
+    "nationality": "🌐 San Miguel de Tucumán, Argentina",
+    "greeting1": "Hello, I'm Pablo!",
+    "greeting2": "I offer my services for various work environments, highlighting my skills in using different management software, maintenance of technological equipment, customer service, teamwork, presentation, respect, eagerness to learn, and work."
+  },
+  "professions": [
+    "Computer Operator",
+    "Web Application Programmer",
+    "Computer Technician",
+    "Electronics Technician",
+    "Computer Science Student"
+  ],
+  "work_experience": [
+    {
+      "date": "From 2015 to 2020",
+      "description": "Computer Technician, network wiring installation, server maintenance, support for sales systems in commercial premises.",
+      "title": "ZapaNOR Group S.R.L.",
+      "url": ""
+    },
+    {
+      "date": "From 2018 to 2021",
+      "description": "Technical support by phone for Telecom, Fibertel, Personal, Cablevisión.",
+      "title": "Teleperformance",
+      "url": "https://www.teleperformance.com"
+    },
+    {
+      "date": "From 2018 to 2021",
+      "description": "Teaching assistant and lecturer in Laboratory 1 and 2 subjects, teaching the creation of accessible web pages for all people and any device.",
+      "title": "National University of Tucumán",
+      "url": "https://www.facet.unt.edu.ar"
+    },
+    {
+      "date": "From 2021 to 2022",
+      "description": "Web programmer internship at the Integrated System of the Ministry of Education of Tucumán.",
+      "title": "Ministry of Education of the Nation",
+      "url": "https://sime.educaciontuc.gov.ar"
+    },
+    {
+      "date": "From 2022 to 2023",
+      "description": "Remote web application programmer.",
+      "title": "Vortex-IT",
+      "url": "https://vortex-it.com"
+    }
+  ],
+  "education": [
+    {
+      "date": "Completed in 2014",
+      "description": "Computer Operator",
+      "title": "National Technological University"
+    },
+    {
+      "date": "Completed in 2014",
+      "description": "Computer Repairman",
+      "title": "National Technological University"
+    },
+    {
+      "date": "Completed in 2019",
+      "description": "MERN stack web programmer",
+      "title": "Rolling Code School"
+    },
+    {
+      "date": "Completed in 2023",
+      "description": "Argentina Program 4.0",
+      "title": "CESSI ARGENTINA"
+    },
+    {
+      "date": "Completed in 2023",
+      "description": "English",
+      "title": "University Language Center"
+    }
+  ],
+  "contact": [
+    {
+      "title": "Email",
+      "description": "pablo.diaz1795@gmail.com",
+      "url": ""
+    },
+    {
+      "title": "GitHub",
+      "description": "pablo1795",
+      "url": ""
+    }
+  ]
+}

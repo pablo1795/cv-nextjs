@@ -1,0 +1,122 @@
+{
+  "titles": {
+    "cv": "currículum vitae",
+    "experience": "experiencia laboral",
+    "studies": "estudios realizados",
+    "contact": "contáctame"
+  },
+  "words": {
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "phone": "Telefono",
+    "email": "E-mail",
+    "nationality": "Nacionalidad"
+  },
+  "personal_info": {
+    "full_name": "Pablo Facundo Díaz",
+    "nationality": "San Miguel de Tucumán, Argentina",
+    "email": "pablo.diaz1795@gmail.com",
+    "phone": "+54 3813-698820",
+    "github": "pablo1795",
+    "githubURL": "https://github.com/pablo1795",
+    "linkedin": "pablo1795",
+    "linkedinURL": "https://linkedin.com/in/pablo1795",
+    "greeting1": "¡Hola, soy Pablo!",
+    "greeting2": "Ofrezco mis servicios para diversos entornos laborales, destacando mis habilidades para utilizar distintos softwares de gestión, mantenimiento de equipos tecnológicos, atención al público, trabajo en equipo, presentación, respeto, muchas ganas de aprender y de trabajar."
+  },
+  "navBar": {
+    "menu": "menú",
+    "openMenu": "abrir menú",
+    "closeMenu": "cerrar menú",
+    "darkMode": "modo oscuro",
+    "lightMode": "modo claro"
+  },
+  "professions": [
+    "operador de computadoras",
+    "programador de aplicaciones web",
+    "técnico de computadoras",
+    "técnico de electrónica",
+    "estudiante en informática"
+  ],
+  "work_experience": [
+    {
+      "date": "desde 2015 hasta 2020",
+      "description": "Técnico de computadoras en locales comerciales.",
+      "title": "Grupo ZapaNOR S.R.L.",
+      "url": ""
+    },
+    {
+      "date": "desde 2018 hasta 2021",
+      "description": "Soporte técnico telefónico para Telecom, Fibertel, Personal, Cablevisión.",
+      "title": "Teleperformance",
+      "url": "https://www.teleperformance.com"
+    },
+    {
+      "date": "desde 2018 hasta 2021",
+      "description": "Auxiliar docente y ayudante de cátedra en las materias Laboratorio 1 y 2, que enseñan la creación de páginas web accesibles para todas las personas y cualquier dispositivo.",
+      "title": "Universidad Nacional de Tucumán",
+      "url": "https://www.facet.unt.edu.ar"
+    },
+    {
+      "date": "desde 2021 hasta 2022",
+      "description": "Pasantía de programador web en el Sistema Integrado del Ministerio de Educación de Tucumán.",
+      "title": "Ministerio de Educación de la Nación",
+      "url": "https://sime.educaciontuc.gov.ar"
+    },
+    {
+      "date": "desde 2022 hasta 2023",
+      "description": "Programador de aplicaciones web de forma remota.",
+      "title": "Vortex-IT",
+      "url": "https://vortex-it.com"
+    }
+  ],
+  "education": [
+    {
+      "date": "finalizó en 2014",
+      "description": "Operador de computadoras",
+      "title": "Universidad Tecnológica Nacional"
+    },
+    {
+      "date": "finalizó en 2014",
+      "description": "Reparador de computadoras",
+      "title": "Universidad Tecnológica Nacional"
+    },
+    {
+      "date": "finalizó en 2019",
+      "description": "Programador web MERN stack",
+      "title": "Rolling Code School"
+    },
+    {
+      "date":  "finalizó en 2023",
+      "description":  "Argentina Programa 4.0",
+      "title":  "CESSI ARGENTINA"
+    },
+    {
+      "date": "finalizó en 2023",
+      "description": "Inglés",
+      "title": "Centro Universitario de Idiomas"
+    }
+  ],
+  "contact": [
+    {
+      "title": "E-mail",
+      "description": "pablo.diaz1795@gmail.com",
+      "url": "mailto:pablo.diaz1795@gmail.com"
+    },
+    {
+      "title": "GitHub",
+      "description": "pablo1795",
+      "url": "https://github.com/pablo1795"
+    },
+    {
+      "title": "LinkedIn",
+      "description": "pablo1795",
+      "url": "https://linkedin.com/in/pablo1795"
+    },
+    {
+      "title": "Teléfono",
+      "description": "+54 3813-698820",
+      "url": "tel:+543813698820"
+    }
+  ]
+}
